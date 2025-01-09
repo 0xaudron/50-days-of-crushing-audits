@@ -311,32 +311,61 @@ ERC-7715: [http://eip.tools/eip/7715](http://eip.tools/eip/7715)
 
 ---
 ### Day 35 :
+- Started with Compound V3 Protocol - https://rareskills.io/compound-v3-book 
+Reflection Note: Now my main focus is to go in depths of each protocols to learn more and more.
+
 ---
-### Day 36 :
+### Day 36 : 
+- Applying the focused approach I mentioned earlier. 
+- Did 10 tutorials of @zokyo_io book : https://zokyo-auditing-tutorials.gitbook.io/zokyo-tutorials/tutorial-10-erc20-transfer-and-safetransfer
+- Completed the Compound V3 book : https://www.rareskills.io/compound-v3-book 
 ---
 ### Day 37 :
+- Read the Uniswap V2 book by @RareSkills_io : https://www.rareskills.io/uniswap-v2-book
+ 
+- Reached Tutorial15 in Zokyo Auditing Handbook
 ---
 ### Day 38 :
+- Read till Tutorial 24 of Zokyo Auditing Handbook
+- Reviewed the codebase and read the audit report - https://code4rena.com/reports/2021-04-vader
 ---
 ### Day 39 :
+- Read Uniswap v3 Concentrated Liquidity: https://rareskills.io/post/uniswap-v3-concentrated-liquidity
 ---
 ### Day 40 :
+- Read the report by @pashovkrum : https://github.com/pashov/audits/blob/master/solo/pdf/FlorenceFinance-security-review.pdf
 ---
 ### Day 41 :
+- A report a day until on holidays , so read Phi protocol audit report by @code4rena : https://code4rena.com/reports/2024-08-phi
 ---
 ### Day 42 :
+- How Tornado Cash Works by @RareSkills_io : https://www.rareskills.io/post/how-does-tornado-cash-work
 ---
 ### Day 43 :
+- Progressed in the Zokyo auditing handbook till Tutorial 30
 ---
 ### Day 44 :
+- Did Zokyo Auditing Handbook till Tutorial 35
+- Complete the playlist of Deep Dive DAI Stablecoin System by @ProgrammerSmart : https://www.youtube.com/watch?v=lsTouzJUsUk&list=PLO5VPQH6OWdW9b6GKJR4Dt9XZxQlJuVp_
+ 
 ---
 ### Day 45 :
+- Read Zokyo Auditing Handbook till Tutorial 50
+- Started shadow auditing Lending Protocols (Sentiment V2): https://audits.sherlock.xyz/contests/349
+Will go for 1 more day, before going through the report.
 ---
 ### Day 46 :
+- Read Zokyo Auditing Handbook till Tutorial 55
+
+- Found 1H/7M out of 3H/23M during shadow auditing Lending Protocols (Sentiment V2). Very bad performance :(
+
+- Read the following blogs on about Lending Protocols : https://x.com/A2Security/status/1876282577058984371
 ---
 ### Day 47 :
+- Read Zokyo auditing handbook till Tutorial 60
 ---
 ### Day 48 :
+- *Sick Leave*
 ---
 ### Day 49 :
 ---
