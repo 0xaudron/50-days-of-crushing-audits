@@ -368,6 +368,17 @@ Will go for 1 more day, before going through the report.
 - *Sick Leave*
 ---
 ### Day 49 :
+- Completed  Zokyo Auditing Handbook : https://zokyo-auditing-tutorials.gitbook.io
+- Started auditing hmx-orderbook on @cantinaxyz
 ---
 ### Day 50 :
+Read the following blogs :
+- AMM, LSD, Lending & CDP protocol bugs - https://medium.com/@Polgemy
+- Moving Averages (Defi Math)  by @TheBlockChainer: https://medium.com/@bloqarl/moving-averages-defi-math-use-cases-and-vulnerabilities-adaaad17da59
+- Security Notes on ERC4337 : https://blog.yacademy.dev/2024-09-09-security-notes-erc4337/
+- LayerZero Secure Integration : https://composable-security.com/blog/secure-integration-with-layer-zero/ 
+- https://dacian.me/find-highs-before-external-auditors-using-invariant-fuzz-testing 
+- https://olympixai.medium.com/the-silent-killer-in-smart-contracts-unvalidated-address-parameters-and-their-catastrophic-e219b60a48ac 
+- Precision loss accumulation  : https://medium.com/@zxy211965/precision-loss-accumulation-the-two-parser-bug-lurking-in-the-shadows-5d9d11252b2a 
+- Office hours by @GalloDaSballo : https://youtube.com/watch?v=MwksBCj025s
 ---
